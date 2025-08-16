@@ -6,4 +6,4 @@ More information about the catalog can be found in the project repository:
 ## Database Structure
 The **database structure** is visualized in the relationship schema diagram below:
 
-![EROExtra Relationship Schema](data/to/relationship_diagram/schemeroextra_relationship_diagram.png)
+![eRO-ExTra Schema](data/relationship_diagram/eroextra_relationship_diagram.png)
